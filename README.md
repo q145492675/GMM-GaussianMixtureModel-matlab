@@ -1,5 +1,5 @@
 # GMM-Gaussian-mixture-models-in-matlab
-THis routine is implemented in Matlab
+This routine is implemented in Matlab
 
 ## Requirement:
 Matlab2012b or its latest version
